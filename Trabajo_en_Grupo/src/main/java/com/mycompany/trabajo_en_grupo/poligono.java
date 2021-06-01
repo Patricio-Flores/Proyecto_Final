@@ -3,6 +3,8 @@ package com.mycompany.trabajo_en_grupo;
 
 
 public class poligono {
+    // variables 
+    boolean verificar =false;
         private double apotema;
     private double numerol;
     private double lado ; 
